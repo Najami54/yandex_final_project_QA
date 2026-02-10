@@ -1,0 +1,17 @@
+# Виртуальное окружение
+.venv/
+
+#pytest
+.pytest_cache/
+__pycache__/
+
+.idea/
+
+# Логи
+*.log
+
+# Системные скрытые файлы (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+
