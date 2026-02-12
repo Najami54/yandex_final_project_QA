@@ -2,7 +2,7 @@
 
 # URL_SERVICE хранит базовый URL веб-сервиса, который используется для доступа к API или другим ресурсам.
 
-URL_SERVICE = "https://2805c6fd-eff4-4bf8-bb98-a65f63baf51a.serverhub.praktikum-services.ru"
+URL_SERVICE = "https://5c2ecc72-37c7-4edc-a6c8-fd69d84abed1.serverhub.praktikum-services.ru"
 
 CREATE_ORDER = "/api/v1/orders"
 
